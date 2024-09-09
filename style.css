@@ -55,6 +55,12 @@ main {
     height: auto;
 }
 
+.my_awatar{
+    display: flex;
+    justify-content: row;
+    align-items: center
+}
+
 section {
     width: 100%;
     display: flex;
